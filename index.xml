@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type='text/xsl' href='xslfile.xsl'?> 
+ <student> 
+  <s>
+   <studentid>RS143</studentid>
+   <name>Gayathri Padmanabhan</name> 
+   <branch>CSE</branch> 
+   <age>28</age> 
+   <city>Delhi </city> 
+  </s> 
+ <s>
+   <studentid>RS144</studentid>
+   <name>Acsa Sunny</name> 
+   <branch>IT</branch> 
+   <age>23</age> 
+   <city>Ernakulam</city> 
+  </s>
+<s>
+   <studentid>RS145</studentid>
+   <name>Anoopa Paul</name> 
+   <branch>EC</branch> 
+   <age>26</age> 
+   <city>Delhi</city> 
+  </s>
+<s>
+   <studentid>RS146</studentid>
+   <name>Safa</name> 
+   <branch>EEE</branch> 
+   <age>23</age> 
+   <city>Ernakulam</city> 
+  </s>
+<s>
+   <studentid>RS147</studentid>
+   <name>Shweta Devan</name> 
+   <branch>IT</branch> 
+   <age>23</age> 
+   <city>Delhi</city> 
+  </s>
+<s>
+   <studentid>RS148</studentid>
+   <name>Aysha Sithara</name> 
+   <branch>IT</branch> 
+   <age>24</age> 
+   <city>Ernakulam</city> 
+  </s>
+<s>
+   <studentid>RS149</studentid>
+   <name>Annie</name> 
+   <branch>EC</branch> 
+   <age>24</age> 
+   <city>Ernakulam</city> 
+  </s>
+</student>
